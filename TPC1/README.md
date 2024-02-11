@@ -7,7 +7,7 @@
 
 ## Resumo
 
-Neste trabalho, utilizou-se o material fornecido pelo docente, ficheiro CSV com informação relativa a exames médicos desportivos, nomeadamente, nome do paciente, idade, modalidade, se é federado, ...
+Neste trabalho, utilizou-se o material fornecido pelo docente, sendo este um ficheiro CSV com informação relativa a exames médicos desportivos, nomeadamente, nome do paciente, idade, modalidade, se é federado, ...
 
 O ficheiro CSV não apresenta dados inválidos.
 
