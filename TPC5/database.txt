@@ -1,0 +1,6 @@
+1 Água 50c
+2 Tuk Tuk 1e
+3 Coca-Cola 80c
+4 Bolo 1e20c
+5 Bolachas 90c
+6 Batatas 2e50c
